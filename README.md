@@ -8,3 +8,6 @@ Configuration:
 
 arches:
 `arm64 x86` iOS, iOS Simulator, Mac Catalyst
+
+Swift Package Manager
+`https://github.com/yangliu-1995/ffmpeg-kit-spm.git`
